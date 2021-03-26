@@ -1,5 +1,5 @@
 import React from "react";
-import Link from "next/link";
+import Link from "next/Link";
 import styles from "./CountriesTable.module.css";
 import KeyboardArrowDownRounded from "@material-ui/icons/KeyboardArrowDownRounded";
 import KeyboardArrowUpRounded from "@material-ui/icons/KeyboardArrowUpRounded";

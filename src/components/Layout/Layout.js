@@ -1,6 +1,6 @@
 import React from "react";
 import Head from "next/head";
-import Link from "next/link";
+import Link from "next/Link";
 import styles from "./Layout.module.css";
 import { Brightness6Rounded } from "@material-ui/icons";
 
